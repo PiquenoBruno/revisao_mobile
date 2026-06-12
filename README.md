@@ -1,3 +1,4 @@
+```bash
 Criar projeto Expo
 Instalar axios
 Criar pastas (app e service)
@@ -11,3 +12,4 @@ Fazer navegação (router.push)
 Criar detalhes.tsx
 Receber parâmetros (useLocalSearchParams)
 Exibir dados na tela
+```
